@@ -1,0 +1,7 @@
+[package]
+name = "web-ex-rust"
+version = "0.1.0"
+authors = ["ieee0824 <ieee0824x@gmail.com>"]
+
+[dependencies]
+nickel = "*"
